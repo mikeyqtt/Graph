@@ -3,7 +3,7 @@
   The Friend Suggestion System is a social network simulation application that uses a graph-based structure to model relationships between users. 
   In this system, users are represented as nodes, and friendships are modeled as edges between those nodes.
 
-
+![image alt](https://github.com/mikeyqtt/Graph/blob/47f92e78ecc89c3b28fddb8194d56b6282d92db7/GraphScreenshot.png)
 
 
 ## Features
